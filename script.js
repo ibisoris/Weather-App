@@ -1,3 +1,13 @@
+
+/*
+ * Js Code for Weather APP
+ *
+ * With weather Api
+ *
+ * Using async function
+ *
+ * */
+
 const apiKey ='175c64cf26bab8b761e37f0d1cdbb07b';
 const apiUrl = 'https://api.openweathermap.org/data/2.5/weather?&units=metric&q=';
 

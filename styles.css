@@ -1,3 +1,6 @@
+
+/* General Styles */
+
 *{
     margin: 0;
     padding: 0;
@@ -19,6 +22,9 @@ h2{
 
 }
 
+/* Styles for container */
+
+
 .card{
     width: 100%;
     max-width: 470px;
@@ -33,6 +39,8 @@ h2{
 .city{
     text-align: center;
 }
+
+/* Styles for Search input and button */
 
 .search{
     width: 70%;
@@ -89,6 +97,8 @@ h2{
     font-weight: 400px;
     margin-top: -10px;
 }
+
+/* Styles for weather Conditions and Images*/
 
 .details{
     display: flex; 
